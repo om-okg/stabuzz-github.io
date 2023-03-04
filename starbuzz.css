@@ -20,8 +20,8 @@ body {
 
 #sidebar {
   position: absolute;
-  top: 50%;
-  right: 40%;
+  top:30%;
+  right: 30%;
   width: 280px;
   background:       #efe5d0 url(background.gif) bottom right;
   font-size:        105%;
