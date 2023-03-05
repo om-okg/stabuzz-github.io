@@ -14,14 +14,16 @@ display: table;}
 }
 div#row1{display: table-row;}
 
-main {
+div#main {
+  display: table-cell;
   background:       #efe5d0 url(background.gif) top left;
   font-size:        105%;
   padding:          15px;
   margin:           0px 10px 10px 10px;
 }
 
-#sidebar {
+div#sidebar {
+  display: table-cell;
   background:       #efe5d0 url(background.gif) bottom right;
   font-size:        105%;
   padding:          15px;
