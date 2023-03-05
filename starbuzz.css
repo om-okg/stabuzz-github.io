@@ -18,7 +18,8 @@ div#awarde{position: absolute;
 top:30px;
 left:365px;}
 div img#slogan{float:right;}
-
+div #table{display: table;
+border-spacing:10px;}
 div#row1{display: table-row;}
 
 div#drinks{
