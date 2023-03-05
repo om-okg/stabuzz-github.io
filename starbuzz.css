@@ -5,6 +5,12 @@ body {
   color: black;
   margin:           0px;
 }
+div#htable{display: table;}
+div#hrow{display:table-row;}
+div#hlogo{display:table-cell;
+horizontal-align:left;}
+div#hslogo{display: table-cell;
+horizontal-align: right;}
 div#table{
 display: table;
 border-spacing: 10px;}
