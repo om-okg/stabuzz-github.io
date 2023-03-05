@@ -12,8 +12,9 @@ display: table;}
   margin:           10px;
   height:           108px;
 }
+div#row1{display: table-row;}
 
-#main {
+main {
   background:       #efe5d0 url(background.gif) top left;
   font-size:        105%;
   padding:          15px;
