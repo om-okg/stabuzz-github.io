@@ -13,6 +13,10 @@ body {
   height:           108px;
   background-color: #675c47;
 }
+
+div#awarde{position: absolute;
+top:30px;
+left:365px;}
 div img#slogan{float:right;}
 
 div#row1{display: table-row;}
