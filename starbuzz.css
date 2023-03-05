@@ -8,9 +8,10 @@ body {
 
 
 #header {
-  background-color: #675c47;
+  
   margin: 10px 10px 0px 10px;
   height:           108px;
+  background-color: #675c47;
 }
 div#row1{display: table-row;}
 
