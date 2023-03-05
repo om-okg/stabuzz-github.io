@@ -28,7 +28,7 @@ div#sidebar {
   background:       #efe5d0 url(background.gif) bottom right;
   font-size:        105%;
   padding:          15px;
-  vertical-align: top;
+  vertical-align: bottom;
 }
 
 #footer {
